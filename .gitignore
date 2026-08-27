@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# generated data — regenerate via data/simulator.py, deterministic with fixed seed
+data/*.csv
+features/*.csv
+
+# trained model artifacts (small enough to keep if you want, excluded by default)
+models/realtime/*.txt
+models/graph/*.pt
+
+.DS_Store
+.env
