@@ -3,12 +3,12 @@ import pandas as pd
 
 # Page Configuration
 st.set_page_config(
-    page_title="ImposterAgent Risk Console",
+    page_title="AgentGuard Risk Console",
     page_icon="🛡️",
     layout="wide"
 )
 
-st.title("🛡️ ImposterAgent: Real-Time Trust & Risk Scoring Engine")
+st.title("🛡️ AgentGuard: Real-Time Trust & Risk Scoring Engine")
 st.markdown("---")
 
 # Load Data function
