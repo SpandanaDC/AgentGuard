@@ -1,6 +1,6 @@
 # 🛡️ ImposterAgent (AgentGuard)
 > **Real-Time Trust & Risk Scoring Engine for Agentic Commerce**  
-> *Razorpay AI Builder Internship 2026 | Track 2: AI Risk Manager*[cite: 1]
+
 
 ---
 
