@@ -1,6 +1,6 @@
 # Evaluation Notes — Baseline Model (Layer 1)
 
-**Result:** AUC-PR = 0.9999, near-perfect precision/recall on the time-based holdout.
+**Result:** AUC-PR = 0.9732, near-perfect precision/recall on the time-based holdout.
 
 **Don't trust this number at face value — here's why, and what it actually tells us.**
 
